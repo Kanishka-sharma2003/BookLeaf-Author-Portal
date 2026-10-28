@@ -1,0 +1,69 @@
+[
+  {
+    "id": "BL-1793114939438",
+    "authorName": "Kanishka Sharma",
+    "subject": "dvdsc",
+    "category": "General Inquiry",
+    "message": "csdc",
+    "bookId": null,
+    "status": "Open",
+    "priority": "Low",
+    "adminResponse": "",
+    "internalNotes": [],
+    "createdAt": "2026-10-27T15:28:59.438Z",
+    "updatedAt": "2026-10-27T16:21:52.208Z"
+  },
+  {
+    "id": "BL-1793114921494",
+    "authorName": "Kanishka",
+    "subject": "Royalty Payment Delay",
+    "category": "Royalty & Payments",
+    "message": "My royalty payment is pending. Please check the payment status.",
+    "bookId": "1",
+    "status": "Open",
+    "priority": "Medium",
+    "adminResponse": "",
+    "internalNotes": [],
+    "createdAt": "2026-10-27T15:28:41.494Z"
+  },
+  {
+    "id": "TICKET-1793123404980",
+    "authorId": "USER-1793119050213",
+    "authorName": "BookLeaf Admin",
+    "authorEmail": "admin@bookleaf.com",
+    "bookId": null,
+    "subject": "hjhjhjh",
+    "message": "hjkkkkkkkkkkkkkkkkkk",
+    "category": "GENERAL",
+    "priority": "Critical",
+    "status": "Open",
+    "adminResponse": "ggn",
+    "internalNotes": [],
+    "assignedTo": "BookLeaf Admin",
+    "createdAt": "2026-10-27T17:50:04.980Z",
+    "updatedAt": "2026-10-27T19:24:09.252Z"
+  },
+  {
+    "id": "TICKET-1793126742042",
+    "authorId": "USER-1793119050213",
+    "authorName": "BookLeaf Admin",
+    "authorEmail": "admin@bookleaf.com",
+    "bookId": "BOOK-002",
+    "subject": "I received a damaged book. Please guide me on how to request a replacement.",
+    "message": "I received a damaged book. Please guide me on how to request a replacement.",
+    "category": "GENERAL",
+    "priority": "High",
+    "status": "In Progress",
+    "adminResponse": "Dear Author,\n\nI am very sorry to hear that your book arrived damaged. Under our policy, verified printing defects qualify for a free reprint.\n\nTo help us assist you with requesting a replacement, please reply with clear photos showing the damage or defect along with your order details. Once we can verify the issue, we will work with our production team to arrange a reprint for you.\n\nThank you for your patience and understanding.\n\nBest regards,\nBookLeaf Support Team",
+    "internalNotes": [
+      {
+        "note": "Internal test note - admin only.ffffff",
+        "author": "BookLeaf Admin",
+        "createdAt": "2026-10-27T19:04:36.827Z"
+      }
+    ],
+    "assignedTo": "BookLeaf Admin",
+    "createdAt": "2026-10-27T18:45:42.043Z",
+    "updatedAt": "2026-10-27T19:24:42.972Z"
+  }
+]
